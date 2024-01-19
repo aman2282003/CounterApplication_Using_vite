@@ -1,0 +1,24 @@
+*{
+  margin: 0;padding: 0;
+}
+.main{
+  background-color: aqua;
+  border: 1px solid black;
+  height: 250px;
+  width: 400px;
+  margin: 300px auto auto auto;
+}
+.para{
+  text-align: center;
+  font-size: 60px;
+}
+.buttons{
+  margin-top:20px;
+  display: flex;
+  justify-content: space-between;
+}
+button{
+  margin: 50px 30px 50px 30px;
+  height: 40px;
+  padding: 5px;
+}
